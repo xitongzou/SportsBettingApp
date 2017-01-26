@@ -1,0 +1,155 @@
+Betting Results
+On 01/02/16, Bet on SAS against HOU and WON
+On 01/02/16, Bet on GSW against DEN and WON
+On 01/02/16, Bet on LAC against PHI and WON
+On 01/04/16, Bet on SAS against MIL and WON
+On 01/04/16, Bet on GSW against CHA and WON
+On 01/05/16, Bet on GSW against LAL and WON
+On 01/06/16, Bet on SAS against UTA and WON
+On 01/07/16, Bet on ATL against PHI and WON
+On 01/08/16, Bet on SAS against NYK and WON
+On 01/08/16, Bet on GSW against POR and WON
+On 01/08/16, Bet on OKC against LAL and WON
+On 01/09/16, Bet on TOR against PHI and WON
+On 01/09/16, Bet on GSW against SAC and WON
+On 01/10/16, Bet on LAC against NOP and WON
+On 01/10/16, Bet on CLE against PHI and WON
+On 01/11/16, Bet on SAS against BKN and WON
+On 01/11/16, Bet on GSW against MIA and WON
+On 01/13/16, Bet on GSW against DEN and LOST
+On 01/14/16, Bet on CHI against PHI and WON
+On 01/14/16, Bet on GSW against LAL and WON
+On 01/15/16, Bet on OKC against MIN and WON
+On 01/16/16, Bet on GSW against DET and LOST
+On 01/18/16, Bet on NYK against PHI and WON
+On 01/18/16, Bet on TOR against BKN and WON
+On 01/20/16, Bet on ORL against PHI and LOST
+On 01/20/16, Bet on CLE against BKN and WON
+On 01/21/16, Bet on SAS against PHX and WON
+On 01/22/16, Bet on GSW against IND and WON
+On 01/22/16, Bet on SAS against LAL and WON
+On 01/24/16, Bet on OKC against BKN and LOST
+On 01/25/16, Bet on CLE against MIN and WON
+On 01/27/16, Bet on CLE against PHX and WON
+On 01/27/16, Bet on DET against PHI and WON
+On 01/27/16, Bet on OKC against MIN and WON
+On 01/27/16, Bet on SAS against HOU and WON
+On 01/27/16, Bet on GSW against DAL and WON
+On 01/29/16, Bet on DAL against BKN and WON
+On 01/29/16, Bet on LAC against LAL and WON
+On 01/30/16, Bet on GSW against PHI and WON
+On 01/31/16, Bet on GSW against NYK and WON
+On 02/01/16, Bet on OKC against WAS and WON
+On 02/01/16, Bet on SAS against ORL and WON
+On 02/03/16, Bet on ATL against PHI and WON
+On 02/03/16, Bet on GSW against WAS and WON
+On 02/03/16, Bet on OKC against ORL and WON
+On 02/03/16, Bet on SAS against NOP and WON
+On 02/03/16, Bet on LAC against MIN and LOST
+On 02/05/16, Bet on WAS against PHI and WON
+On 02/06/16, Bet on SAS against LAL and WON
+On 02/08/16, Bet on LAC against PHI and WON
+On 02/08/16, Bet on OKC against PHX and WON
+On 02/09/16, Bet on GSW against HOU and WON
+On 02/10/16, Bet on SAS against ORL and WON
+On 02/10/16, Bet on CLE against LAL and WON
+On 02/10/16, Bet on GSW against PHX and WON
+On 02/11/16, Bet on OKC against NOP and WON
+On 02/19/16, Bet on GSW against POR and LOST
+On 02/19/16, Bet on SAS against LAL and WON
+On 02/21/16, Bet on SAS against PHX and WON
+On 02/21/16, Bet on DAL against PHI and WON
+On 02/22/16, Bet on GSW against ATL and WON
+On 02/22/16, Bet on LAC against PHX and WON
+On 02/24/16, Bet on DET against PHI and WON
+On 02/24/16, Bet on TOR against MIN and WON
+On 02/24/16, Bet on MEM against LAL and WON
+On 02/24/16, Bet on SAS against SAC and WON
+On 02/25/16, Bet on GSW against ORL and WON
+On 02/29/16, Bet on WAS against PHI and WON
+On 02/29/16, Bet on LAC against BKN and WON
+On 03/01/16, Bet on GSW against ATL and WON
+On 03/02/16, Bet on CHA against PHI and WON
+On 03/02/16, Bet on SAS against DET and WON
+On 03/03/16, Bet on MIA against PHX and WON
+On 03/03/16, Bet on SAS against NOP and WON
+On 03/04/16, Bet on MIA against PHI and WON
+On 03/05/16, Bet on SAS against SAC and WON
+On 03/06/16, Bet on GSW against LAL and LOST
+On 03/06/16, Bet on MEM against PHX and LOST
+On 03/06/16, Bet on MIA against PHI and WON
+On 03/07/16, Bet on GSW against ORL and WON
+On 03/08/16, Bet on TOR against BKN and WON
+On 03/08/16, Bet on SAS against MIN and WON
+On 03/09/16, Bet on GSW against UTA and WON
+On 03/10/16, Bet on SAS against CHI and WON
+On 03/10/16, Bet on CLE against LAL and WON
+On 03/11/16, Bet on OKC against MIN and LOST
+On 03/11/16, Bet on GSW against POR and WON
+On 03/12/16, Bet on GSW against PHX and WON
+On 03/13/16, Bet on CLE against LAL and WON
+On 03/14/16, Bet on GSW against NOP and WON
+On 03/16/16, Bet on GSW against NYK and WON
+On 03/17/16, Bet on SAS against POR and WON
+On 03/18/16, Bet on OKC against PHI and WON
+On 03/18/16, Bet on GSW against DAL and WON
+On 03/20/16, Bet on BOS against PHI and WON
+On 03/21/16, Bet on IND against PHI and WON
+On 03/21/16, Bet on GSW against MIN and WON
+On 03/23/16, Bet on DEN against PHI and WON
+On 03/24/16, Bet on CLE against BKN and LOST
+On 03/25/16, Bet on GSW against DAL and WON
+On 03/26/16, Bet on POR against PHI and WON
+On 03/27/16, Bet on GSW against PHI and WON
+On 03/29/16, Bet on CHA against PHI and WON
+On 03/29/16, Bet on GSW against WAS and WON
+On 03/30/16, Bet on SAS against NOP and WON
+On 03/30/16, Bet on GSW against UTA and WON
+On 03/31/16, Bet on CLE against BKN and WON
+On 04/01/16, Bet on CHA against PHI and WON
+On 04/01/16, Bet on GSW against BOS and LOST
+On 04/02/16, Bet on IND against PHI and WON
+On 04/03/16, Bet on GSW against POR and WON
+On 04/05/16, Bet on GSW against MIN and LOST
+On 04/05/16, Bet on LAC against LAL and WON
+On 04/06/16, Bet on LAC against LAL and WON
+On 04/08/16, Bet on SAS against DEN and LOST
+On 04/11/16, Bet on OKC against LAL and WON
+On 04/12/16, Bet on TOR against PHI and WON
+On 04/13/16, Bet on TOR against BKN and WON
+On 04/13/16, Bet on CHI against PHI and WON
+On 04/13/16, Bet on GSW against MEM and WON
+On 04/13/16, Bet on LAC against PHX and LOST
+UTA:40-43
+SAS:68-15
+CHI:43-40
+ORL:35-48
+WAS:42-41
+PHI:10-73
+NYK:32-51
+PHX:22-61
+MIA:49-34
+BKN:22-61
+OKC:56-27
+BOS:49-34
+GSW:74-9
+DEN:33-50
+DAL:42-41
+NOP:31-52
+HOU:40-43
+LAC:54-28
+MIL:34-49
+DET:45-38
+POR:45-38
+MIN:29-54
+SAC:34-49
+MEM:42-41
+TOR:56-27
+LAL:18-66
+ATL:49-34
+CLE:58-25
+CHA:49-34
+IND:46-37
+WON 107 bets and LOST 14 bets
+WON A TOTAL OF 10700 AND LOST A TOTAL OF 7000
+FOR A TOTAL GAIN/LOSS OF 3700
